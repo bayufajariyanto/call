@@ -1,6 +1,4 @@
-#!/bin/sh
-#hacker indonesia
-
+# spam call wkwkw
 echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
 
 read nick #membaca yang ditulis
