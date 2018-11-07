@@ -3,12 +3,12 @@ echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
 
 read nick #membaca yang ditulis
 echo " "
-echo " __ _ _   _           _ _ _      _ _     "
-echo "|   _ _| | |         |_ _  |   _|   |_   "
-echo "|  |_ _  | |  _ _ _   _ _| |  |_     _|  "
-echo "|   _ _| | | |  _  | |  _  |    |   |    "
-echo "|  |     | | | |_| | | |_| |    |   |_ _ "
-echo "|__|     |_| |_ _ _| |_ _ _|    |_ _ _ _|"
+echo " __ _ _   _           _ _ _      __     "
+echo "|   _ _| | |         |_ _  |   _|  |_   "
+echo "|  |_ _  | |  _ _ _   _ _| |  |_    _|  "
+echo "|   _ _| | | |  _  | |  _  |    |  |    "
+echo "|  |     | | | |_| | | |_| |    |  |_ _ "
+echo "|__|     |_| |_ _ _| |_ _ _|    |__ _ _|"
 echo " "
 echo selamat datang $nick ":)"
 echo
